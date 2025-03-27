@@ -28,7 +28,7 @@ NumPy, Matplotlib, SciPy, tqdm 等
 | `ddpm.py` | DDPM 核心模块，实现前向加噪与反向去噪过程 |
 | `unet_1D_test.py` | 一维UNet结构及注意力模块定义 |
 | `noisy_process.py` | 测试前向加噪过程，并可视化原始/加噪翼型对比图 |
-| `airfoil_draw.py` / `data_loader.py` | （未提供）用于绘图与数据处理的辅助工具模块 |
+| `airfoil_draw.py` / `data_loader.py` | 用于绘图与数据处理的辅助工具模块 |
 
 ## 使用说明
 
