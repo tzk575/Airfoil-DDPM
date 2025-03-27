@@ -40,7 +40,7 @@ python train.py
 请确保已有训练数据 train_data.npy 文件，包含 shape 为 (样本数, 128, 2) 的翼型坐标点数据
 
 
-测试
+### 测试
 python generate_test.py   做相应修改
 
 
